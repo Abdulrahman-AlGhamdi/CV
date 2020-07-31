@@ -101,7 +101,7 @@ span{
 .info{
   margin: auto;
   padding: 20px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .middle{
