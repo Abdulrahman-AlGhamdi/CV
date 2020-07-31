@@ -133,6 +133,6 @@ span{
   text-decoration: none;
 }
 
-.footer-icon{
-  margin-left: 30px;
+.normal{
+  text-align: left;
 }
