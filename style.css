@@ -1,0 +1,138 @@
+/* ----------------------------------------------------------------------------- H6 */
+
+body{
+  background-color: #f9f9f9;
+}
+
+/* ----------------------------------------------------------------------------- Navigation Bar */
+
+hr{
+    border-top: 0.2rem solid black;
+    width: 75%;
+}
+
+/* ----------------------------------------------------------------------------- Footer */
+
+footer{
+  background-color: #343a40;
+  text-align: center;
+}
+
+/* ----------------------------------------------------------------------------- i */
+
+i{
+  margin-right: 10px;
+}
+
+/* ----------------------------------------------------------------------------- Navigation Bar */
+
+span{
+  color: #dc3545;
+}
+
+/* ----------------------------------------------------------------------------- Navigation Bar */
+
+.navbar-brand{
+  font-size: 2rem;
+  padding: 0;
+  margin: 0;
+}
+
+/* ----------------------------------------------------------------------------- Section */
+
+.About{
+  margin-top: 70px;
+}
+
+.container-fluid{
+  padding: 2% 15%;
+}
+
+.container-fluid H6{
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.container-fluid strong{
+  font-size: 1.2rem;
+}
+
+.container-fluid p{
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: 'Abel', sans-serif;
+  margin: 10px 0;
+}
+
+.container-fluid button{
+  margin-bottom: 20px;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: 'Abel', sans-serif;
+}
+
+.star{
+  color: #DAA520;
+}
+
+.circle{
+  color: #006400;
+}
+
+.edu-icons{
+  color: #0000CD;
+}
+
+.exp-icon{
+  color: #5d250a;
+}
+
+.experience{
+  color: #5d250a;
+}
+
+.logo{
+  margin: auto;
+  text-align: center;
+}
+
+.info{
+  margin: auto;
+  padding: 20px;
+  text-align: justify;
+}
+
+.middle{
+  text-align: center;
+  justify-content: center;
+}
+
+.left{
+  text-align: left;
+}
+
+.star-dark{
+  opacity: 0.3;
+}
+
+.footer{
+  padding: 20px;
+}
+
+.footer p{
+  margin: 0.5% 0 0;
+  color: #f9f9f9;
+  font-size: 0.7rem;
+}
+
+.footer a{
+  margin: 1%;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer-icon{
+  margin-left: 30px;
+}
